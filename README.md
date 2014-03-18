@@ -20,3 +20,5 @@ walah
 wedoz
 
 raw
+
+$POS, $_GET, $_REQUEST
